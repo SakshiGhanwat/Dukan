@@ -8,3 +8,4 @@ Screenshots:-
 ![Screenshot (100)](https://github.com/sakshighanwat2000/HighSchool_Admission_WebPortal_Client/assets/113760508/6c3f37ff-b4c5-4bf4-aff8-2a7c4dc84928)
 ![Screenshot (101)](https://github.com/sakshighanwat2000/HighSchool_Admission_WebPortal_Client/assets/113760508/f908827a-037b-4665-8263-6ca3f106ee54)
 ![Screenshot (102)](https://github.com/sakshighanwat2000/HighSchool_Admission_WebPortal_Client/assets/113760508/e480889c-d7bb-4916-81f4-5731aa8b9600)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1aeaa669-ca90-492b-aa65-bde6eef43fa3" />
